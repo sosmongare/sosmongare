@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sospeter</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h6 align="center">
+Hello.
+My name is Sospeter Mong'are
+
+I am a software developer. I have worked for important projects in different companies dedicated to software development. Outside of programming, I enjoy computer games, playing music, and logic-based puzzle(Sudoku).
+</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sosmongare&label=Profile%20views&color=0e75b6&style=flat" alt="sosmongare" /> </p>
 
