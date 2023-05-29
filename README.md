@@ -14,17 +14,17 @@ I am a software engineer with a focus on the back-end, automation, low level stu
 
 - 🔭 I’m currently working on **Cashflow Management System**
 
-- 🌱 I’m currently learning **VueJs, RESTful Apis**
+- 🌱 I’m currently learning **ReactJS, Django Framework**
 
 - 🤝 I’m looking for help with **Python, C#**
 
-- 👨‍💻 All of my projects are available at [https://alphasolutions.co.ke/sos/](https://alphasolutions.co.ke/sos/)
+- 👨‍💻 All of my projects are available at [https://alphaflare.co.ke/sos/](https://alphaflare.co.ke/sos/)
 
-- 💬 Ask me about **Laravel, Bootstrap, Javascript**
+- 💬 Ask me about **PHP, Laravel, Bootstrap, Javascript, RESTful Apis**
 
 - 📫 How to reach me **sosmongare@gmail.com**
 
-- 📄 Know about my experiences [https://alphasolutions.co.ke/sos/](https://alphasolutions.co.ke/sos/)
+- 📄 Know about my experiences [https://alphaflare.co.ke/sos/](https://alphaflare.co.ke/sos/)
 
 - ⚡ Fun fact **Like fingerprints, everyone's tongue print is different**
 
