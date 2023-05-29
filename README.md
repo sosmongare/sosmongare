@@ -3,7 +3,7 @@
 Hello.
 My name is Sospeter Mong'are
 
-I am a software developer. I have worked for important projects in different companies dedicated to software development. Outside of programming, I enjoy computer games, playing music, and logic-based puzzle(Sudoku).
+I am a software engineer with a focus on the back-end, automation, low level stuff and data. And a keen spirit for writing clean code for humsn and machines. Away from my computer screen, I enjoy playing music, computer games and logic-based puzzle.
 </h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sosmongare&label=Profile%20views&color=0e75b6&style=flat" alt="sosmongare" /> </p>
