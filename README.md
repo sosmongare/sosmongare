@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Sos here!</h1>
-<h1 align="center">Software Engineer | Full Stack Developer | Problem Solver</h1>
+<h1 align="center">Software Engineer (Backend) | Problem Solver</h1>
 <h6 align="center">
 
 I'm a software engineer passionate about creating elegant and efficient solutions to complex problems. Experienced in developing web applications using a variety of technologies including PHP, Python, JavaScript, and SQL. Strong background in back-end development, with a focus on building scalable and user-friendly applications. Away from my computer screen, I enjoy playing Guitar, computer games and logic-based puzzles. I'm Dedicated to continuous learning and staying up-to-date with the latest industry trends. Open to collaboration and always seeking new opportunities to contribute to meaningful projects.
