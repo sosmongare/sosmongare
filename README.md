@@ -11,15 +11,15 @@ I'm a software engineer passionate about creating elegant and efficient solution
 
 <p align="left"> <a href="https://twitter.com/msnmongare" target="blank"><img src="https://img.shields.io/twitter/follow/msnmongare?logo=twitter&style=for-the-badge" alt="msnmongare" /></a> </p>
 
-- 🔭 I’m currently working on **Cashflow Management System**
+- 🔭 I’m currently developing **Minttrack**
 
-- 🌱 I’m currently learning **ReactJS, Django Framework**
+- 🌱 I’m currently learning **NodeJS, Django Framework** for Backend Development & ReactJS for Frontend
 
-- 🤝 I’m looking for help with **Python, C#**
+- 🤝 I’m looking for help with **NodeJS, Python, C#**
 
 - 👨‍💻 All of my projects are available at [https://alphaflare.co.ke/sos/](https://alphaflare.co.ke/sos/)
 
-- 💬 Ask me about **PHP, Laravel, Bootstrap, Javascript, RESTful Apis**
+- 💬 Ask me about **PHP/Laravel, Django, Bootstrap, Javascript, RESTful Apis**
 
 - 📫 How to reach me **sosmongare@gmail.com**
 
